@@ -6,4 +6,5 @@ Do not use this in production. It is called badcrypto for a reason. Some of thes
 
 ## Contents
 - [ElGamal](./src/elgamal)
-- secp256k1
+- secp256k1 [WIP/1]
+- ed25519 [WIP/2]
